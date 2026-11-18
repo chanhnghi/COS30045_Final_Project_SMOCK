@@ -2,7 +2,11 @@
 
 **COS30045 Data Visualisation — Final Project**  
 **Team: SMOCK**
+## Team Members
 
+- Châu Chánh Nghị
+- Ngô Gia Hy
+- 
 ## Project Overview
 
 This project explores hospitalised injuries from road traffic crashes in Australia using data published by the Bureau of Infrastructure and Transport Research Economics (BITRE). The dataset covers the period from 2011 to 2021.
@@ -41,7 +45,4 @@ The initial findings use absolute counts, which do not account for differences i
 
 The bed-days-to-hospitalisations calculation is preliminary. It uses the full Bed days column, and the numerator and denominator may not cover exactly the same set of cases. It should not be interpreted as a direct measure of clinical severity.
 
-## Team Members
 
-- Châu Chánh Nghị
-- Ngô Gia Hy
